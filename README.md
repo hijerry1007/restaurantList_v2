@@ -6,11 +6,11 @@
 
 ### 首頁
 
-https://github.com/hijerry1007/restaurantList_v2/blob/master/photo/homepage.png
+![image] (https://github.com/hijerry1007/restaurantList_v2/blob/master/photo/homepage.png)
 
 ### 新增頁面
 
-https://github.com/hijerry1007/restaurantList_v2/blob/master/photo/addpage.png
+![image] (https://github.com/hijerry1007/restaurantList_v2/blob/master/photo/addpage.png)
 
 
 ## 安裝
